@@ -36,4 +36,3 @@ Energia e Comunicações: No pico da crise, mais de 1,5 milhão de pessoas ficar
 Saneamento: O sistema de abastecimento de água e tratamento de esgoto de Porto Alegre e outras cidades foi severamente danificado, resultando em racionamento e risco sanitário.
 4. Conclusão
 A análise dos dados demonstra que as chuvas de 2024 no Rio Grande do Sul configuram um desastre de múltiplas dimensões, com consequências sociais, econômicas e de infraestrutura profundas e duradouras. A reconstrução exigirá um esforço monumental e coordenado entre governos, setor privado e sociedade civil, além de reforçar a urgência da pauta de adaptação e mitigação das mudanças climáticas.
-
