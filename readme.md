@@ -38,17 +38,17 @@ As seguintes ferramentas e tecnologias foram utilizadas na construção do proje
 
 ## 📈 Fontes dos Dados
 
-* **Defesa Civil do Rio Grande do Sul:** [Link para o boletim ou site, se disponível]
-* **Secretaria de Planejamento, Governança e Gestão (SPGG) do RS:** [Link para o relatório, se disponível]
-* **Confederação Nacional de Municípios (CNM):**
-* **KAGGLE**
+* **Defesa Civil do Rio Grande do Sul:** https://www.defesacivil.rs.gov.br/inicial
+* **Secretaria de Planejamento, Governança e Gestão (SPGG) do RS:** https://planejamento.rs.gov.br/inicial
+* **Confederação Nacional de Municípios (CNM):**https://cnm.org.br/
+* **KAGGLE**https://www.kaggle.com/datasets
 ---
 
 ## 👤 Autor
 
 **Luan Victor Santos**
 
-* LinkedIn: [`linkedin.com/in/luan-victor-santos`](https://www.linkedin.com/in/luan-victor-santos
+* LinkedIn: [linkedin.com/in/luan-victor-santos-342661252]
 * GitHub: [`@luanviccs`](https://github.com/luanviccs)
 
 ---
