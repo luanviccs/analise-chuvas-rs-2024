@@ -1,6 +1,6 @@
 # Painel de Impactos – Chuvas no RS (2024)
 
-![Demonstração do Painel](https://demonstracao.png) 
+![Demonstração do Painel](https://dashboard.png) 
 ### 📊 [Acesse o Painel Online aqui](https://luanviccs.github.io/analise-chuvas-rs-2024/)
 
 ---
