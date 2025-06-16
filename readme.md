@@ -1,6 +1,6 @@
 # Painel de Impactos – Chuvas no RS (2024)
 
-![Demonstração do Painel](https://i.imgur.com/your-screenshot-url.png) 
+![Demonstração do Painel](https://demonstracao.png) 
 ### 📊 [Acesse o Painel Online aqui](https://luanviccs.github.io/analise-chuvas-rs-2024/)
 
 ---
@@ -27,6 +27,10 @@ O painel apresenta os seguintes indicadores:
 ## 💻 Tecnologias Utilizadas
 
 As seguintes ferramentas e tecnologias foram utilizadas na construção do projeto:
+
+* **PYTHON EM PANDAS** Para a manipulação dos dados
+* **GOOGLE COLAB NOTEBOOKS** Para a configuração do ambiente em código
+* **GOOGLE SHEETS** Para a visualização em gráficos simplificados
 
 * **HTML5:** Para a estrutura semântica da página.
 * **CSS3:** Para a estilização e o design responsivo.
